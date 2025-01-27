@@ -1,0 +1,13 @@
+{
+  "product_3": {
+    "mask_04": {
+      "expected_size": "large"
+    },
+    "mask_07": {
+      "expected_size": "large"
+    },
+    "mask_09": {
+      "expected_size": "large"
+    }
+  }
+}

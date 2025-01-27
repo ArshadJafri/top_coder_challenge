@@ -1,0 +1,22 @@
+{
+  "product_1": {
+    "mask_00": {
+      "expected_size": "large"
+    },
+    "mask_01": {
+      "expected_size": "large"
+    },
+    "mask_02": {
+      "expected_size": "medium"
+    },
+    "mask_04": {
+      "expected_size": "medium"
+    },
+    "mask_05": {
+      "expected_size": "medium"
+    },
+    "mask_07": {
+      "expected_size": "medium"
+    }
+  }
+}
