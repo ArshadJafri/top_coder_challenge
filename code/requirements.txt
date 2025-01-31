@@ -1,11 +1,13 @@
 torch==2.2.0
 torchvision==0.17.0
-diffusers==0.26.3
+#diffusers==0.26.3
+diffusers>=0.26.3 # Or the latest stable version
+numpy==1.26.4
 transformers==4.37.2
 opencv-python==4.8.0.76
 pillow==10.0.0
 accelerate==0.27.2
 safetensors==0.4.2
-xformers==0.0.23.post1
+huggingface_hub>=0.19.4
 ftfy==6.1.1
 git+https://github.com/openai/CLIP.git
